@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ruilhan <ruilhan@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ruilhan <ruilhan@student.42.fr>          +#+  +:+       +#+          */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/02 11:01:15 by ruilhan          #+#    #+#             */
 /*   Updated: 2022/02/02 13:20:00 by ruilhan         ###   ########.fr       */
